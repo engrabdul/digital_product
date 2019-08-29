@@ -1,0 +1,1 @@
+const resq = require('./routes/fixture')
